@@ -1,14 +1,14 @@
 Consigne installation Projet CLOSSET MARINE / LENOIR GUILLAUME 
 
-prérequis : 
+prÃ©requis : 
 - java 11 
 - eclipse 
-- node.js ( une fois téléchargé dans le terminal exécuter npm install -g @angular/cli) 
+- node.js ( une fois tÃ©lÃ©chargÃ© dans le terminal exÃ©cuter npm install -g @angular/cli) 
 - extension eclipse angular ide
 
 Projet Gradle : 
 
-- lancer le terminal et exécuter les commandes suivantes : 
+- lancer le terminal et exÃ©cuter les commandes suivantes : 
 gradlew build 
 gradlew eclipse 
 
@@ -17,22 +17,22 @@ gradlew eclipse
 
 Projet Angular : 
 
-- lancer le terminal et exécuter les commandes suivantes : 
+- lancer le terminal et exÃ©cuter les commandes suivantes : 
 
 ng build 
 npm start 
 
 
-A consulter :
+A consulter : le TP JPA (TP1) qui n'est pas connectÃ© mais rÃ©alisÃ© , et si besoin dispo sur le git tout comme le Active Mq TP2 
  
 Partie JPA :  http://localhost:8100/h2-console/
 Partie Mq : http://localhost:8161/admin/queues.jsp
 Partie Web Service :  http://localhost:8080/cars
 Partie Angular : http://localhost:4200/cars
 
-Avancés : 
+AvancÃ©s : 
 
-Nous n’avons pas connecté le TPJPA dans la partie angular car il aurait fallu revoir toute sa structure ( ex mawweight)
+Nous nâ€™avons pas connectÃ© le TPJPA dans la partie angular car il aurait fallu revoir toute sa structure ( ex mawweight)
 
-Nous avons commencé a revoir la structure de notre code pour qu’il soit plus « propre » mais nous n’avons pas eu le temps de terminer c’est pourquoi nous avons laisser le début en commentaire dans notre code 
+Nous avons commencÃ© a revoir la structure de notre code pour quâ€™il soit plus Â«Â propreÂ Â» mais nous nâ€™avons pas eu le temps de terminer câ€™est pourquoi nous avons laisser le dÃ©but en commentaire dans notre code 
 
