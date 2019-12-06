@@ -1,0 +1,10 @@
+
+<p>component-add works!</p>
+
+<form>	
+<input [(ngModel)]="car.plateNumber" [ngModelOptions]="{standalone: true}" placeholder="plate"><br>
+<input [(ngModel)]="car.brand" [ngModelOptions]="{standalone: true}" placeholder="brand"><br>
+<input [(ngModel)]="car.price" [ngModelOptions]="{standalone: true}" placeholder="price"><br>
+
+<button (click)="create(car)">Add Car !</button>
+</form>
